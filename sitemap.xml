@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- =========== LOGIN =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</loc>
+  </url>
+
+  <!-- =========== DASHBOARD =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index</loc>
+  </url>
+
+  <!-- =========== ADMIN MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewOrganizationGeneralInformation</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewLocations</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewJobTitleList</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/payGrade</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSkills</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewLanguages</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewMemberships</loc>
+  </url>
+
+  <!-- =========== PIM MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList/reset/1</loc>
+  </url>
+
+  <!-- =========== LEAVE MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveList</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/leave/assignLeave</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/leave/viewLeaveBalance</loc>
+  </url>
+
+  <!-- =========== TIME MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/time/viewEmployeeTimesheet</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/time/viewMyTimesheet</loc>
+  </url>
+
+  <!-- =========== RECRUITMENT MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/recruitment/viewCandidates</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/recruitment/viewJobVacancy</loc>
+  </url>
+
+  <!-- =========== MY INFO MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/1</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/contactDetails/empNumber/1</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/emergencyContacts/empNumber/1</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/dependents/empNumber/1</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/immigration/empNumber/1</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/jobDetails/empNumber/1</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/salaryComponents/empNumber/1</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/pim/report-to/empNumber/1</loc>
+  </url>
+
+  <!-- =========== PERFORMANCE MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/performance/searchEvaluatePerformances</loc>
+  </url>
+
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/performance/viewExpiredReview</loc>
+  </url>
+
+  <!-- =========== MAINTENANCE MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/maintenance/purgeEmployee</loc>
+  </url>
+
+  <!-- =========== CLAIM MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/claim/viewAssignClaim</loc>
+  </url>
+
+  <!-- =========== BUZZ MODULE =========== -->
+  <url>
+    <loc>https://opensource-demo.orangehrmlive.com/web/index.php/buzz/viewBuzz</loc>
+  </url>
+
+</urlset>
